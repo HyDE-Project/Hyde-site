@@ -100,4 +100,4 @@ make update clean install
 
 ## Further reading
 
-- Read [usage](../reference/usage.md) for more information on how to use Hyde-cli.
+- Read [usage](./usage.md) for more information on how to use Hyde-cli.
