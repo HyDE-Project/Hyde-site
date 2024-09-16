@@ -1,5 +1,5 @@
 ---
-title: Usage
+title: Manpage
 description: Hyde-cli is a CLI tool for HyDE.
 ---
  ══════════════════════
