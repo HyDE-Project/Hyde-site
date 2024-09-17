@@ -6,7 +6,14 @@ description: Installation guide for Hyde-cli
 <div align="center">
   <br>
 
-![hyde_cli_banner](https://raw.githubusercontent.com/krhyme7/hyde-cli/master/Assets/hyde_cli_banner.png)
+![hyde_cli_banner](../../../assets/hyde.png)
+
+<style type="text/css">
+    img {
+        width: 200px;
+    }
+</style>
+
 <br/>
 
 Hyde-cli is a CLI tool for [HyDE](https://github.com/prasanthrangan/hyprdots).
