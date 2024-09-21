@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Hyde',
+			title: 'HyDE project',
 			social: {
 				github: 'https://github.com/HyDE-Project',
 			},
@@ -15,7 +15,7 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Hyde Cli', slug: 'guides/cli' },
+						{ label: 'HyDE Cli', slug: 'guides/cli' },
 					],
 				},
 				{

@@ -1,6 +1,6 @@
-# Hyde site
+# HyDE site
 
-Visit the [Hyde site](https://hydeproject.pages.dev/)
+Visit the [HyDE site](https://hydeproject.pages.dev/)
 
 ## 🚀 Project Structure
 
