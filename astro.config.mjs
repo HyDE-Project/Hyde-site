@@ -8,15 +8,14 @@ export default defineConfig({
 		starlight({
 			title: 'Hyde',
 			social: {
-				github: 'https://github.com/HyDE-Project/Hyde-cli',
+				github: 'https://github.com/HyDE-Project',
 			},
 			sidebar: [
 				{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Installation', slug: 'guides/installation' },
-						{ label: 'Usage', slug: 'guides/usage' },
+						{ label: 'Hyde Cli', slug: 'guides/cli' },
 					],
 				},
 				{
