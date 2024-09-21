@@ -1,12 +1,12 @@
 ---
-title: Installation
+title: Hyde Cli Installation
 description: Installation guide for Hyde-cli
 ---
 
 <div align="center">
   <br>
 
-![hyde_cli_banner](../../../assets/hyde.png)
+![hyde_cli_banner](../../../assets/hyde-cli.png)
 
 <style type="text/css">
     img {
