@@ -48,7 +48,6 @@ description: supported HyDE themes.
 
 ## Usage
 
-> 🚨
 > - Make sure you have installed [HyDE](https://github.com/prasanthrangan/hyprdots)
 > - And also [Hyde-cli](https://github.com/HyDE-Project/Hyde-cli)
 
