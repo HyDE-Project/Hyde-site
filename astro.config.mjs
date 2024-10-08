@@ -16,6 +16,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'HyDE Cli', slug: 'guides/cli' },
+						{ label: 'HyDe gallery', slug: 'guides/gallery' },
 					],
 				},
 				{
